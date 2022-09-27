@@ -1,4 +1,8 @@
-### Hi there 👋
+## About My Github
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongyoulu&layout=compact)
+
+![Alan Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongyoulu&show_icons=true)
 
 <!--
 **zhongyoulu/zhongyoulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
